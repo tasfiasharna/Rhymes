@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Rhymes</string>
+
+    <string name="poem1">One, two, three, four, five,\n
+Once I caught a fish alive,\n
+Six, seven, eight, nine, ten,\n
+Then I let go again.\n\n
+
+Why did you let it go?\n
+Because it bit my finger so.\n
+Which finger did it bite?\n
+This little finger on the right</string>
+    <string name="poem2">A B C D E F G\n
+H I J K L M N O P\n
+Q R S T U V\n
+W X Y and Z\n\n
+
+Now I know my ABCs\n
+Next time won’t you sing with me</string>
+    <string name="poem3">Baa, baa black sheep\n
+Have you any wool\n
+Yes sir, yes sir\n
+Three bags full.\n\n
+
+One for my master\n
+And one for my dame\n
+And one for the little boy\n
+Who lives down the lane.</string>
+    <string name="poem4">Humpty Dumpty sat on a wall,\n
+Humpty Dumpty had a great fall.\n
+All the King’s horses and all the King’s men,\n
+Couldn’t put Humpty together again.</string>
+    <string name="poem5">Jack and Jill went up the hill\n
+To fetch a pail of water.\n
+Jack fell down and broke his crown,\n
+And Jill came tumbling after.\n\n
+
+Up Jack got and home did trot\n
+As fast as he could caper;\n
+And went to bed to mend his head\n
+With vinegar and brown paper.</string>
+    <string name="poem6">Twinkle, twinkle, little star,\n
+How I wonder what you are!\n
+Up above the world so high,\n
+Like a diamond in the sky.\n\n
+
+Twinkle, twinkle, little star,\n
+How I wonder what you are!\n\n
+
+When the blazing sun is gone,\n
+When he nothing shines upon,\n
+When you shower your little light,\n
+Twinkle, twinkle, all the night.\n\n
+
+Twinkle, twinkle, little star,\n
+How I wonder what you are!</string>
+
+
+</resources>
